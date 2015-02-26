@@ -1,0 +1,56 @@
+body
+{background-color: #F0FFF0;
+}
+
+
+.title-box {
+ border-width: 1px; 
+ border: solid green;
+ text-align: center;
+ font-family:Bookman Old Style;
+}
+
+
+.content {
+	border-width: 1px; 
+ 	border: solid green;
+}
+
+
+.Desc {
+
+    border-width: 1px; 
+    text-align: left;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+h3 {
+	 border-bottom: 3px double black;
+	 display: inline;
+	 margin: 4px;
+	 color: blue;
+}
+
+
+table {
+    margin-left: 60px;
+}
+
+#th1, #th2, #th3
+{
+    width: auto;
+    table-layout:auto;
+    background-color: green;
+    font-weight:bolder;
+    border-width:medium;
+    border-color:Black;
+}
+
+td 
+{
+    margin-left: 36px;
+    background-color: silver;
+    border: 1px solid navy;
+    font-style:normal;
+}
